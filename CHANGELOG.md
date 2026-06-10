@@ -10,3 +10,6 @@
 - `docs/decisions.md` with initial scope decisions.
 - `progress.md` and this changelog.
 
+### Changed
+
+- Registered private GitHub repository: `https://github.com/vorovong/yuldopunk-2040`.
