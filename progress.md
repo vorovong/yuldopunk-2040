@@ -20,7 +20,7 @@
 
 - 2026-06-10 — Separate product repository: `yuldopunk-2040`.
 - 2026-06-10 — Phase 1 is `첫 겨울까지 180일`, a founding/construction episode.
-- 2026-06-10 — GitHub repository created as private repo under `vorovong/yuldopunk-2040`.
+- 2026-06-10 — GitHub repository created under `vorovong/yuldopunk-2040`, then changed to public visibility.
 
 ## Blockers
 

@@ -12,4 +12,4 @@
 
 ### Changed
 
-- Registered private GitHub repository: `https://github.com/vorovong/yuldopunk-2040`.
+- Registered GitHub repository and changed visibility to public: `https://github.com/vorovong/yuldopunk-2040`.
